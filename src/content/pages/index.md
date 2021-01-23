@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: " Ganga & Krishnamurthy"
+tagline: Temple
+featuredImage: /assets/ravinderanath-tagore-01.jpg
 cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+The mission of Ganga and Krishnamurthy Temple is to: (1) provide people the means for practicing Sanatana Dharma [Hinduism]; (2) promote the beliefs and values of Sanatana Dharma through various means and (3) to help people apply those values in life to solve problems. 
+
+People of all faiths are welcome.
