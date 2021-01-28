@@ -1,8 +1,8 @@
 ---
 template: index-page
 slug: /
-title: " Ganga & Krishnamurthy"
-tagline: Temple
+title: Special Mobile Temple
+tagline: " Virtual & In-home Services"
 featuredImage: /assets/ravinderanath-tagore-01.jpg
 cta:
   ctaText: Know more
