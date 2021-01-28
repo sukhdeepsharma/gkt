@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "My Fair Lady, I can do without you: with words in Kannada added"
-slug: myfairlady
+slug: /myfairlady
 date: 2021-01-05 14:48
 description: my fair lady
 featuredImage: /assets/myfair-lady.jpg

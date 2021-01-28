@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Celebrating the Holiday of Lights in a Durga Temple in India
-slug: diwali2020
+slug: /diwali2020
 date: 2021-01-05 13:04
 description: Diwali 2020
 featuredImage: /assets/diwali01.jpg

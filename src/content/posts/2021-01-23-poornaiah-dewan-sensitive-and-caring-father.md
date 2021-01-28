@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: "Poornaiah, Dewan: sensitive and caring father"
-slug: Poornaiah-Dewan
+slug: /Poornaiah-Dewan
 date: 2021-01-23 14:53
 description: Poornaiah, Dewan
 featuredImage: /assets/poornaiah-dewan.jpg
