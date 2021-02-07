@@ -22,25 +22,28 @@ query LayoutQuery {
 }
 `
 
-const Layout = ({children, className, props}) => {
+const Layout = ({ children, className, props }) => {
 
   const { site } = useStaticQuery(query)
   const { siteTitle } = site.siteMetadata
 
-
   return (
     <div className="primary-container">
       <Header>
-        <Logo title={siteTitle} />
-        <Navigation/>
+        <Navigation /><Logo title={siteTitle} />
+
+        <div>
+          {/* {dIcons} */}
+          <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=P4MWGADVY4J64&amp;source=url" target="_blank"><img src="/assets/paypal-small.png"></img></a>
+        </div>
         <div sx={layoutStyle.theme}>
-          <Theme/>
+          <Theme />
         </div>
       </Header>
       <main className={"container " + className}>
         {children}
       </main>
-      <Footer/>
+      <Footer />
     </div>
   )
 }
@@ -49,6 +52,6 @@ export default Layout
 
 const layoutStyle = {
   theme: {
-    display:["none", "none", "none", "block"],
+    display: ["none", "none", "none", "block"],
   }
 }
