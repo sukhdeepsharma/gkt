@@ -1,11 +1,15 @@
 ---
 template: blog-post
-title: "My Fair Lady, I can do without you: with words in Kannada added"
+title: My Fair Lady - Empowered Lady!
 slug: /myfairlady
 date: 2021-01-05 14:48
 description: my fair lady
 featuredImage: /assets/myfair-lady.jpg
 ---
+I can do without you! with some words in Kannada added in Latin script in blue.
+
+George Bernard Shaw was awarded the Nobel Prize in Literature in 1925. He wrote the play ‘Pygmalion’ in 1912. The film ‘My Fair Lady’ is an adaptation of this play. Reluctantly, he agreed to the different ending in the film. In the play, the male tyrannical teacher Prof. Henry Higgins is inconsiderate and thoughtless with the extraordinarily hard working flower girl Eliza Doolittle. Higgins’ mother is kind and fair to the good girl. Eliza Doolittle emerges as an empowered woman.
+
 What a fool I was, what a dominated fool
 To think that you were the earth and the sky
 What a fool I was
