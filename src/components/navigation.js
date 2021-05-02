@@ -19,10 +19,6 @@ const MenuItems = [
     title: "Volunteer"
   },
   {
-    path: "/about",
-    title: "About"
-  },
-  {
     path: "/contact",
     title: "Contact"
   },
