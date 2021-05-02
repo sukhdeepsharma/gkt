@@ -17,7 +17,7 @@ const Footer = () => (
         </b>
       </p>
       <p>
-        Contact Us: GKTempleGK@gmail.com or 866-908-3442
+        Contact Us: GKTempleGK@gmail.com
       </p>
       <p>
         Ganga & Krishnamurthy Temple Non-Profit Tax Exempt. Donations tax deductible.
