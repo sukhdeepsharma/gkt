@@ -3,7 +3,7 @@ template: blog-post
 title: Alamelamma - Unjust people only understand not having children. Evil and
   unjust people force good people to take extreme measures as a last resort.
 slug: /Alamelamma-Queen
-date: 2021-04-17 15:33
+date: 2021-04-30 15:33
 description: Alamelamma, Queen
 featuredImage: /assets/queen1.jpg
 ---

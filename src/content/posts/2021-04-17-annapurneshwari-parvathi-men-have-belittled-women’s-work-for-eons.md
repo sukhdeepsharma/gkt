@@ -2,7 +2,7 @@
 template: blog-post
 title: Annapurneshwari [Parvathi] - Men have belittled women’s work for eons!
 slug: /Annapurneshwari-Parvathi
-date: 2021-04-17 15:26
+date: 2021-04-16 15:26
 description: Annapurneshwari [Parvathi] - Men have belittled women’s work for eons!
 featuredImage: /assets/anna.jpg
 ---
