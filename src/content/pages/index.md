@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Special Mobile Temple
-tagline: " Virtual & In-home Services"
+tagline: Virtual & In Your Home Services
 featuredImage: /assets/ravinderanath-tagore-01.jpg
 cta:
   ctaText: Know more
